@@ -1,5 +1,5 @@
 import React from "react";
-import Grocery from "../grocery-item/Grocery";
+import Grocery from "../grocery-item/[id]/page";
 import { IGrocery } from "@/types/grocery";
 import { BASE_URL } from "@/constants";
 
